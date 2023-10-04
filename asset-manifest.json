@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/me_2023-0927-filtering_and_search-props-react-build/static/css/main.047186be.css",
+    "main.js": "/me_2023-0927-filtering_and_search-props-react-build/static/js/main.9cec8ed1.js",
+    "index.html": "/me_2023-0927-filtering_and_search-props-react-build/index.html",
+    "main.047186be.css.map": "/me_2023-0927-filtering_and_search-props-react-build/static/css/main.047186be.css.map",
+    "main.9cec8ed1.js.map": "/me_2023-0927-filtering_and_search-props-react-build/static/js/main.9cec8ed1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.047186be.css",
+    "static/js/main.9cec8ed1.js"
+  ]
+}
